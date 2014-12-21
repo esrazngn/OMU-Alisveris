@@ -1,0 +1,10 @@
+C:\Users\Esra\Desktop\OMU-Alisveris-master\omualisveris\bin\omualisveris.dll.config
+C:\Users\Esra\Desktop\OMU-Alisveris-master\omualisveris\bin\omualisveris.dll
+C:\Users\Esra\Desktop\OMU-Alisveris-master\omualisveris\bin\omualisveris.pdb
+C:\Users\Esra\Desktop\OMU-Alisveris-master\omualisveris\bin\EntityFramework.dll
+C:\Users\Esra\Desktop\OMU-Alisveris-master\omualisveris\bin\EntityFramework.SqlServer.dll
+C:\Users\Esra\Desktop\OMU-Alisveris-master\omualisveris\bin\EntityFramework.xml
+C:\Users\Esra\Desktop\OMU-Alisveris-master\omualisveris\bin\EntityFramework.SqlServer.xml
+C:\Users\Esra\Desktop\OMU-Alisveris-master\omualisveris\obj\Debug\omualisveris.csprojResolveAssemblyReference.cache
+C:\Users\Esra\Desktop\OMU-Alisveris-master\omualisveris\obj\Debug\omualisveris.dll
+C:\Users\Esra\Desktop\OMU-Alisveris-master\omualisveris\obj\Debug\omualisveris.pdb
